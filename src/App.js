@@ -10,7 +10,7 @@ export default function PageSelector(){
     <div>
       <Routes>
       <Route path="/start" element={<StartPage />} />
-      <Route path="/" element={<HomePage />} />
+      <Route path="/dtiprojetonotas" element={<HomePage />} />
       </Routes>
       
     </div>
