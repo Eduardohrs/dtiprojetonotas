@@ -11,7 +11,7 @@ Para executar o sistema, siga os seguintes passos:
 5) Execute o seguinte comando para instalar as bibliotecas necessárias para a execução
      npm i
 6) Aguarde a instalação das bibliotecas
-7) Execute o seguinte comando para executar o sistema
+7) Execute o seguinte comando para executar o sistema:
      npm start
 8) Aguarde a finalização da build para a execução do sistema, ele devera ser aberto automaticamente
 9) Caso o sistema não seja aberto automaticamente, abra o seu navegador e acesse o link:
