@@ -8,7 +8,7 @@ Para executar o sistema, siga os seguintes passos:
      git clone https://github.com/Eduardohrs/dtiprojetonotas
 4) Execute o seguinte comando para navegar ate a pasta do sistema:
      cd dtiprojetonotas
-5) Execute o seguinte comando para instalar as bibliotecas necessárias para a execução
+5) Execute o seguinte comando para instalar as bibliotecas necessárias para a execução:
      npm i
 6) Aguarde a instalação das bibliotecas
 7) Execute o seguinte comando para executar o sistema:
