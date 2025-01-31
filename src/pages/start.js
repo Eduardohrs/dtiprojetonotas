@@ -39,6 +39,14 @@ export default function TerminalModePage(){
       }
       i++;
     }
+    i=0
+    while(i<7){
+      if(studentcard[i]===""){
+        errorlist=[]
+        errorlist.push("Por favor, insira os valores no formato mostrado ao lado e com apenas um espaço os separando");
+      }
+      i++;
+    }
     if(!(studentcard.length===7)){
       errorlist=[]
       errorlist.push("Por favor, insira os valores no formato mostrado ao lado e com apenas um espaço os separando");
